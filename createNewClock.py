@@ -1,4 +1,4 @@
-def new_date(new_clock, new_minute):
+def newClock(new_clock, new_minute):
 	counter_x = int(new_minute / 60)
 	counter_z = 0
 	for i in range(counter_x):
